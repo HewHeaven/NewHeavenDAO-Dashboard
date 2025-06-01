@@ -1,5 +1,3 @@
-# NewHeavenDAO-Dashboard
-The frontend hub for the NewHeavenDAO — where real humans earn and live on-chain, grow by reputation.
 # NewHeavenDAO Dashboard — Earnings + Reputation Tracker
 
 🌐 Live minting + wallet verification already working at:  
