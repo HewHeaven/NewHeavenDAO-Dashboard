@@ -59,9 +59,7 @@ NewHeavenDAO is a cross-chain Web3 ecosystem where verified humans earn, build, 
 - [ ] Dynamic tier/reward UI
 - [ ] Leaderboard & badges
 - [ ] Wallet-synced profile page
-
 ---
-
 ## 🤝 Join the Mission
 
 Want to contribute? We’re assembling a dev squad.
