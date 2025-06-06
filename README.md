@@ -35,13 +35,13 @@ NewHeavenDAO is a cross-chain Web3 ecosystem where verified humans earn, build, 
 
 ---
 
-## 📦 Stack (Planned or Live)
+## 📦 Stack (Planned & Live)
 
 | Layer       | Tech                      |
 |-------------|---------------------------|
 | Frontend    | React + Tailwind (PWA)    |
 | Blockchain  | Ethereum + Polygon (cross-chain) |
-| Identity    | Polygon ID + liveness detection |
+| Identity    | Polygon ZK-ID + liveness detection |
 | Wallet      | WalletConnect + MetaMask  |
 | Storage     | On-chain (NFTs + logs)    |
 
